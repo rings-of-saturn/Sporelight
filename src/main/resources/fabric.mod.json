@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "sporelight",
+  "version": "${version}",
+  "name": "Sporelight",
+  "description": "Adds a lot of honey based technology !",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/sporelight/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "rings_of_saturn.github.io.sporelight.client.SporelightDataGenerator"
+    ],
+    "client": [
+      "rings_of_saturn.github.io.sporelight.client.SporelightClient"
+    ],
+    "main": [
+      "rings_of_saturn.github.io.sporelight.Sporelight"
+    ]
+  },
+  "mixins": [
+    "sporelight.mixins.json",
+    {
+      "config": "sporelight.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

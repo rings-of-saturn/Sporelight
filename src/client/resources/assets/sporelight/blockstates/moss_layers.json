@@ -1,0 +1,952 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_1"
+      },
+      "when": {
+        "north": "true",
+        "mossyness": 1
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_1"
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 1
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_1",
+        "uvlock": true,
+        "y": 90
+      },
+      "when": {
+        "east": "true",
+        "mossyness": 1
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_1",
+        "uvlock": true,
+        "y": 90
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 1
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_1",
+        "uvlock": true,
+        "y": 180
+      },
+      "when": {
+        "south": "true",
+        "mossyness": 1
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_1",
+        "uvlock": true,
+        "y": 180
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 1
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_1",
+        "uvlock": true,
+        "y": 270
+      },
+      "when": {
+        "west": "true",
+        "mossyness": 1
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_1",
+        "uvlock": true,
+        "y": 270
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 1
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_1",
+        "uvlock": true,
+        "x": 270
+      },
+      "when": {
+        "up": "true",
+        "mossyness": 1
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_1",
+        "uvlock": true,
+        "x": 270
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 1
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_1",
+        "uvlock": true,
+        "x": 90
+      },
+      "when": {
+        "down": "true",
+        "mossyness": 1
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_1",
+        "uvlock": true,
+        "x": 90
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 1
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_2"
+      },
+      "when": {
+        "north": "true",
+        "mossyness": 2
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_2"
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 2
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_2",
+        "uvlock": true,
+        "y": 90
+      },
+      "when": {
+        "east": "true",
+        "mossyness": 2
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_2",
+        "uvlock": true,
+        "y": 90
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 2
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_2",
+        "uvlock": true,
+        "y": 180
+      },
+      "when": {
+        "south": "true",
+        "mossyness": 2
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_2",
+        "uvlock": true,
+        "y": 180
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 2
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_2",
+        "uvlock": true,
+        "y": 270
+      },
+      "when": {
+        "west": "true",
+        "mossyness": 2
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_2",
+        "uvlock": true,
+        "y": 270
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 2
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_2",
+        "uvlock": true,
+        "x": 270
+      },
+      "when": {
+        "up": "true",
+        "mossyness": 2
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_2",
+        "uvlock": true,
+        "x": 270
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 2
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_2",
+        "uvlock": true,
+        "x": 90
+      },
+      "when": {
+        "down": "true",
+        "mossyness": 2
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_2",
+        "uvlock": true,
+        "x": 90
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 2
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_3"
+      },
+      "when": {
+        "north": "true",
+        "mossyness": 3
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_3"
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 3
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_3",
+        "uvlock": true,
+        "y": 90
+      },
+      "when": {
+        "east": "true",
+        "mossyness": 3
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_3",
+        "uvlock": true,
+        "y": 90
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 3
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_3",
+        "uvlock": true,
+        "y": 180
+      },
+      "when": {
+        "south": "true",
+        "mossyness": 3
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_3",
+        "uvlock": true,
+        "y": 180
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 3
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_3",
+        "uvlock": true,
+        "y": 270
+      },
+      "when": {
+        "west": "true",
+        "mossyness": 3
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_3",
+        "uvlock": true,
+        "y": 270
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 3
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_3",
+        "uvlock": true,
+        "x": 270
+      },
+      "when": {
+        "up": "true",
+        "mossyness": 3
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_3",
+        "uvlock": true,
+        "x": 270
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 3
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_3",
+        "uvlock": true,
+        "x": 90
+      },
+      "when": {
+        "down": "true",
+        "mossyness": 3
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_3",
+        "uvlock": true,
+        "x": 90
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 3
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_4"
+      },
+      "when": {
+        "north": "true",
+        "mossyness": 4
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_4"
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 4
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_4",
+        "uvlock": true,
+        "y": 90
+      },
+      "when": {
+        "east": "true",
+        "mossyness": 4
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_4",
+        "uvlock": true,
+        "y": 90
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 4
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_4",
+        "uvlock": true,
+        "y": 180
+      },
+      "when": {
+        "south": "true",
+        "mossyness": 4
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_4",
+        "uvlock": true,
+        "y": 180
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 4
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_4",
+        "uvlock": true,
+        "y": 270
+      },
+      "when": {
+        "west": "true",
+        "mossyness": 4
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_4",
+        "uvlock": true,
+        "y": 270
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 4
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_4",
+        "uvlock": true,
+        "x": 270
+      },
+      "when": {
+        "up": "true",
+        "mossyness": 4
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_4",
+        "uvlock": true,
+        "x": 270
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 4
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_4",
+        "uvlock": true,
+        "x": 90
+      },
+      "when": {
+        "down": "true",
+        "mossyness": 4
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_4",
+        "uvlock": true,
+        "x": 90
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 4
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_5"
+      },
+      "when": {
+        "north": "true",
+        "mossyness": 5
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_5"
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 5
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_5",
+        "uvlock": true,
+        "y": 90
+      },
+      "when": {
+        "east": "true",
+        "mossyness": 5
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_5",
+        "uvlock": true,
+        "y": 90
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 5
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_5",
+        "uvlock": true,
+        "y": 180
+      },
+      "when": {
+        "south": "true",
+        "mossyness": 5
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_5",
+        "uvlock": true,
+        "y": 180
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 5
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_5",
+        "uvlock": true,
+        "y": 270
+      },
+      "when": {
+        "west": "true",
+        "mossyness": 5
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_5",
+        "uvlock": true,
+        "y": 270
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 5
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_5",
+        "uvlock": true,
+        "x": 270
+      },
+      "when": {
+        "up": "true",
+        "mossyness": 5
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_5",
+        "uvlock": true,
+        "x": 270
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 5
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_5",
+        "uvlock": true,
+        "x": 90
+      },
+      "when": {
+        "down": "true",
+        "mossyness": 5
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_5",
+        "uvlock": true,
+        "x": 90
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 5
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_6"
+      },
+      "when": {
+        "north": "true",
+        "mossyness": 6
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_6"
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 6
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_6",
+        "uvlock": true,
+        "y": 90
+      },
+      "when": {
+        "east": "true",
+        "mossyness": 6
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_6",
+        "uvlock": true,
+        "y": 90
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 6
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_6",
+        "uvlock": true,
+        "y": 180
+      },
+      "when": {
+        "south": "true",
+        "mossyness": 6
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_6",
+        "uvlock": true,
+        "y": 180
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 6
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_6",
+        "uvlock": true,
+        "y": 270
+      },
+      "when": {
+        "west": "true",
+        "mossyness": 6
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_6",
+        "uvlock": true,
+        "y": 270
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 6
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_6",
+        "uvlock": true,
+        "x": 270
+      },
+      "when": {
+        "up": "true",
+        "mossyness": 6
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_6",
+        "uvlock": true,
+        "x": 270
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 6
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_6",
+        "uvlock": true,
+        "x": 90
+      },
+      "when": {
+        "down": "true",
+        "mossyness": 6
+      }
+    },
+    {
+      "apply": {
+        "model": "sporelight:block/moss_layers_6",
+        "uvlock": true,
+        "x": 90
+      },
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false",
+        "mossyness": 6
+      }
+    }
+  ]
+}
